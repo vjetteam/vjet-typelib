@@ -1,0 +1,4 @@
+Assumptions
+# VJET code assist/proposal
+  - Without JSDoc or VJETDoc, VJET will infer to Object type
+  - To provide type information, VJET requires JSDoc or VJETDoc 
